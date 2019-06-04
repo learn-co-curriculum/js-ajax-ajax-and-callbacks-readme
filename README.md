@@ -156,7 +156,7 @@ Let's load up `index.html` and see what happens!
 Okay. Not a whole lot.
 
 We actually need to serve this page from an HTTP server rather than load
-it directly in our browser. At the console, run the following command: `python -m SimpleHTTPServer`. If you're using the Learn IDE, use: `httpserver`.
+it directly in our browser. At the terminal, run the following command: `python -m SimpleHTTPServer`. If you're using the Learn IDE, use: `httpserver`.
 
 This starts a simple server that will serve our files over HTTP. You need to
 start a server instead of just opening up `index.html` in the browser because
